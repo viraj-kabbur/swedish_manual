@@ -1,12 +1,18 @@
-# Leva ett liv
+  
+---
+cover: .gitbook/assets/homeimage23.jpg
+coverY: 0
+---
 
-Lev ett Liv RealLives är en spelifierad simulering som belyser livets många härligheter och komplexiteter. I simuleringen kommer du att pröva din styrka mot de många oförutsägbara livsförhållandena som uppstår under en livstid – från födelse till död.
+# Lev ett Liv
+
+RealLives är en spelifierad simulering som belyser livets många härligheter och komplexiteter. I simuleringen kommer du att pröva din styrka mot de många oförutsägbara livsförhållandena som uppstår under en livstid – från födelse till död.
 
 Och i RealLives kan du spela miljarder av sådana liv, i olika kulturer och nationer på jorden - utan att någonsin upprepa något liv!
 
 Som en skoladministratör kan du spela spelet och födas i vilket liv du vill, genom att helt enkelt klicka på knappen 'Lev ett Liv'. Spela demospel nedan.
 
-{% @arcade/embed flowid="EkCEv2nN5BHVG7qWnw80" url="https://app.arcade.software/share/EkCEv2nN5BHVG7qWnw80" %}
+{% @arcade/embed flowId="EkCEv2nN5BHVG7qWnw80" url="https://app.arcade.software/share/EkCEv2nN5BHVG7qWnw80" %}
 
 {% embed url="https://reallivesworld.com/website/academic/" %}
 Gå till Webbplats
@@ -35,3 +41,5 @@ Alla sådana händelser läggs automatiskt till din livsdagbok, som är en samma
 När du åldras kommer du att kunna hantera de 6 aspekterna av ditt liv; Utbildning, Karriär, Ekonomi, Relationer, Bostad och Fritid - för att skapa en tillfredsställande livserfarenhet för dig själv.
 
 I slutet av ditt liv i spelet kan du göra en sammanfattning av hela ditt liv. Vid denna tidpunkt ger RealLives flera verktyg för att reflektera över din upplevelse.
+
+***
